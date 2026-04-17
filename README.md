@@ -87,7 +87,6 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 * 🤖 Add AI (Play vs Computer)
 * 🎨 Improve UI/animations
 * 🔊 Add sound effects
-* 🌐 Multiplayer (online)
 
 ---
 
