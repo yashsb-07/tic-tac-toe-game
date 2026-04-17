@@ -5,9 +5,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)  
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)  
-![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)  
-![GitHub stars](https://img.shields.io/github/stars/yashsb-07/tic-tac-toe?style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/yashsb-07/tic-tac-toe?style=for-the-badge) 
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)   
 
 ## 🚀 Live Demo
 
