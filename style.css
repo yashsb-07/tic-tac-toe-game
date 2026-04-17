@@ -8,6 +8,12 @@ body{
     text-align: center;
 }
 
+h1 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 6vmin;
+}
+
 .container{
     height: 70vh;
     display: flex;
@@ -67,15 +73,50 @@ body{
 }
 
 .msg-container{
-    height: 100vmin;
+    position: fixed;  
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #548687;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 4rem;
-
+    gap: 2rem;
+    z-index: 1000;     
 }
 
 .hide{
     display: none;
+}
+
+
+/* Mobile Responsive */
+@media (max-width: 600px) {
+    .container {
+        height: 60vh;
+    }
+
+    .game {
+        height: 80vmin;
+        width: 80vmin;
+        gap: 2vmin;
+    }
+
+    .box {
+        height: 24vmin;
+        width: 24vmin;
+        font-size: 10vmin;
+    }
+
+    #reset-btn {
+        margin-top: 2rem;
+    }
+
+    #msg {
+        font-size: 6vmin;
+        text-align: center;
+        padding: 0 1rem;
+    }
 }
