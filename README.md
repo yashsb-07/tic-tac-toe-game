@@ -51,12 +51,12 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ## 📸 Screenshots
 🕹️ Game Board
-D:\Development\tic-tac-toe\screenshots\game.png
+![Game Board](./screenshots/game.png)
 
 
 
 🏆 Winner Screen
-D:\Development\tic-tac-toe\screenshots\winner.png
+![Winner Screen](./screenshots/winner.png)
 ---
 
 ## ⚙️ Setup & Run Locally
